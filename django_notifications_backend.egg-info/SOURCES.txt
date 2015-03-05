@@ -1,8 +1,0 @@
-MANIFEST.in
-README.rst
-setup.py
-django_notifications_backend.egg-info/PKG-INFO
-django_notifications_backend.egg-info/SOURCES.txt
-django_notifications_backend.egg-info/dependency_links.txt
-django_notifications_backend.egg-info/requires.txt
-django_notifications_backend.egg-info/top_level.txt

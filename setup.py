@@ -10,7 +10,8 @@ os.chdir(os.path.normpath(os.path.join(os.path.abspath(__file__), os.pardir)))
 setup(
     name='django-notifications-backend',
     version='0.1',
-    packages=['app'],
+    packages=['notification_services'],
+    py_modules = ['app'],
     include_package_data=True,
     license='BSD License',  # example license
     description='A custom notification backend for notification (APN / GCM).',
